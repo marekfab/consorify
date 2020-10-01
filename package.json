@@ -1,0 +1,19 @@
+{
+    "author": "Marek Fabian",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "List of ceored words",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marekfab/consorify/"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
